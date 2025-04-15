@@ -7,7 +7,7 @@ This project demonstrates core AWS Cloud Practitioner (CLF-C01) skills by deploy
 ## 🌐 Live Demo
 
 ✅ Hosted on: Amazon S3  
-🔗 [Visit Live Site](http://your-bucket-name.s3-website-region.amazonaws.com)
+🔗 [Visit Live Site](https://clf001-website-paul.s3.us-east-1.amazonaws.com/index.html)
 
 ---
 
